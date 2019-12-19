@@ -1,8 +1,0 @@
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\bin\Release\PerformanceKiller.exe
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\bin\Release\PerformanceKiller.pdb
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Release\PerformanceKiller.csprojResolveAssemblyReference.cache
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Release\CPUKiller.PerformanceKiller.resources
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Release\PerformanceKiller.Properties.Resources.resources
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Release\PerformanceKiller.csproj.GenerateResource.Cache
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Release\PerformanceKiller.exe
-C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Release\PerformanceKiller.pdb
