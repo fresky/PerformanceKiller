@@ -1,0 +1,16 @@
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\bin\Debug\PerformanceKiller.exe
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\bin\Debug\PerformanceKiller.pdb
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\PerformanceKiller.csprojResolveAssemblyReference.cache
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\PerformanceKiller.Properties.Resources.resources
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\PerformanceKiller.csproj.GenerateResource.Cache
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\PerformanceKiller.exe
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\PerformanceKiller.pdb
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\PerformanceKiller.HalfG.resources
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\obj\Debug\PerformanceKiller.exe
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\obj\Debug\PerformanceKiller.pdb
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\bin\Debug\PerformanceKiller.exe
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\bin\Debug\PerformanceKiller.pdb
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\obj\Debug\PerformanceKiller.csprojResolveAssemblyReference.cache
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\obj\Debug\PerformanceKiller.PerformanceKiller.resources
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\obj\Debug\PerformanceKiller.Properties.Resources.resources
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\PerformanceKiller\obj\Debug\PerformanceKiller.csproj.GenerateResource.Cache

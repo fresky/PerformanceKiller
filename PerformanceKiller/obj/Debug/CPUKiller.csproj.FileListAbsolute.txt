@@ -1,0 +1,9 @@
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\bin\Debug\CPUKiller.exe.config
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\bin\Debug\CPUKiller.exe
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\bin\Debug\CPUKiller.pdb
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\CPUKiller.csprojResolveAssemblyReference.cache
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\CPUKiller.Properties.Resources.resources
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\CPUKiller.csproj.GenerateResource.Cache
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\CPUKiller.exe
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\CPUKiller.pdb
+c:\users\dxu\documents\visual studio 2015\Projects\PerformanceKiller\CPUKiller\obj\Debug\CPUKiller.PerformanceKiller.resources

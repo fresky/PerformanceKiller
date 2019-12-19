@@ -1,0 +1,7 @@
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\HalfGMemory\bin\Debug\HalfGMemory.exe
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\HalfGMemory\bin\Debug\HalfGMemory.pdb
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\HalfGMemory\obj\Debug\HalfGMemory.Properties.Resources.resources
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\HalfGMemory\obj\Debug\HalfGMemory.csproj.GenerateResource.Cache
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\HalfGMemory\obj\Debug\HalfGMemory.exe
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\HalfGMemory\obj\Debug\HalfGMemory.pdb
+C:\Users\dxu\Documents\Visual Studio 2015\Projects\PerformanceKiller\HalfGMemory\obj\Debug\HalfGMemory.csprojResolveAssemblyReference.cache
